@@ -5,6 +5,6 @@
 ],
 "map_words":[""]
 ,
-"index_words":[ [1,0 ] 
+"index_words":[ [0,1 ] 
 ]
  } 
